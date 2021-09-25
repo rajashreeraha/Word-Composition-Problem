@@ -15,6 +15,7 @@ How to run?
 2- Compile the code:
 
 $ javac LongtCompoundWord.java
+
 3- cat the file and pipe it to your running program:
 
 $ cat /usr/share/dict/words | java LongtCompoundWord.
